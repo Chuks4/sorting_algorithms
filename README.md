@@ -1,4 +1,4 @@
-# 0X1B. C - SORTING ALGORITHS AND BIG O
+# 0X1B. C - SORTING ALGORITHMS AND BIG O
 
 ![git](https://user-images.githubusercontent.com/94003839/214217165-971cead8-b791-4edc-bb6f-7e95ea1be2b6.jpg)
 
